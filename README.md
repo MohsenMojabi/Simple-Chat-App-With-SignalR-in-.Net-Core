@@ -1,4 +1,4 @@
-# SimpleChatAppWithSignalR
+# Simple Chat App With SignalR in .Net Core
 
 This tutorial teaches the basics of building a real-time app using SignalR. 
 
